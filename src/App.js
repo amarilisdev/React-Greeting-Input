@@ -16,7 +16,6 @@ export default function App() {
         placeholder="Your name"
         value={name}
         onChange={changeName}
-        un
       />
     </div>
   );
