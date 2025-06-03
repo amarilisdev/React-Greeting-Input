@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c435f300.css",
-    "main.js": "/static/js/main.1d08d01f.js",
-    "index.html": "/index.html",
-    "main.c435f300.css.map": "/static/css/main.c435f300.css.map",
-    "main.1d08d01f.js.map": "/static/js/main.1d08d01f.js.map"
+    "main.css": "/React-Greeting-Input/static/css/main.c435f300.css",
+    "main.js": "/React-Greeting-Input/static/js/main.1d08d01f.js",
+    "index.html": "/React-Greeting-Input/index.html",
+    "main.c435f300.css.map": "/React-Greeting-Input/static/css/main.c435f300.css.map",
+    "main.1d08d01f.js.map": "/React-Greeting-Input/static/js/main.1d08d01f.js.map"
   },
   "entrypoints": [
     "static/css/main.c435f300.css",
